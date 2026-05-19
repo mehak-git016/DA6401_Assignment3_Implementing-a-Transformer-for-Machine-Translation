@@ -2,8 +2,8 @@
 
 ## Links
 
-- GitHub Repository: `<https://github.com/mehak-git016/DA6401_Assignment3_Implementing-a-Transformer-for-Machine-Translation>`
-- W&B Report: `<https://api.wandb.ai/links/ma25m016mehak-indian-institute-of-technology-madras/m8g3s0lk>`
+- GitHub Repository: [DA6401_Assignment3_Implementing-a-Transformer-for-Machine-Translation](https://github.com/mehak-git016/DA6401_Assignment3_Implementing-a-Transformer-for-Machine-Translation)
+- W&B Report: [Weights & Biases Report](https://api.wandb.ai/links/ma25m016mehak-indian-institute-of-technology-madras/m8g3s0lk)
 
 ## Assignment Overview
 
